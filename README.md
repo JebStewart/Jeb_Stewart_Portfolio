@@ -15,7 +15,8 @@ Data Science Portfolio
 
 **Importance:** Due to the high variation of environment products would operate in, MTBF varied wildly as customers did not know when to perform maintenance. The units regularly failed to meet warranty hour minimums as a result.
 
-**Outcome:** - Able to predict failure within 10% of total life under lab conditions. 
+**Outcome:** 
+- Able to predict failure within 10% of total life under lab conditions. 
 - Acted as proof of concept for the application of the technology in our domain.
 - Proved existing sensors would suffice for a retrofit software only solution (as hardware changes are significantly more expensive)
 
@@ -26,7 +27,8 @@ Data Science Portfolio
 
 **Importance:** Sensor and processor state data is sent out constantly from the product, but was not stored or collected. This made diagnosing issues on the unit difficult as history logs alone would only capture snapshots of the product state when specific conditions were met. Oftentimes the unit would fail with hours of missing data between snapshots. 
 
-**Outcome:** - I wrote a program that has been distributed to my associates and has been in constant use since creation
+**Outcome:** 
+- I wrote a program that has been distributed to my associates and has been in constant use since creation
 - In a few months the program has saved dozens of engineering hours in diagnosing unit failures during testing
 - The program has reduced the amount of modifications that must be made to units for testing which has allowed more tests to be run on an individual unit
 - The program has allowed for the capture of what the product "sees" and has allowed the team to isolate and fix discrepancies between the products perception and reality
