@@ -7,10 +7,12 @@ Data Science Portfolio
 **Importance:** Benign and Malignant tumors are often treated using completely different methods. The treatments themselves can cause harm so using the incorrect treatment on a patient could not only be ineffective, but detrimental to the health of the patient.
 
 **Outcome:** 
+- Able to classify unseen data with an F1 Score of 0.974
+- Explored the morphological changes of cancerous cell nucleii and their role in metastasis
 
 **Skills Used:** Data Manipulation, Data Visualization, Classification with XGBoost, LightGB, and SVM 
 
-# Project 2: Predicitive Maintenance Modeling
+# Project 2: Predictive Maintenance Modeling
 **Objective:** Using existing sensors on board product, approximate when failure will occur and request customer perform maintenance.  
 
 **Importance:** Due to the high variation of environment products would operate in, MTBF varied wildly as customers did not know when to perform maintenance. The units regularly failed to meet warranty hour minimums as a result.
