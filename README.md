@@ -27,7 +27,7 @@ Data Science Portfolio
 **Skills Used:** Experiment Design, Data Collection, Mining, Cleaning, and Visualization, Time-Series Analysis and Regression
 
 # Project 3: Data Collection and Parsing App
-**Objective:** Create a tool for technicians to collect serial stream data from our products during experimentation, and parse the data into a .csv file for immediate analysis.
+**Objective:** Create a tool for technicians to collect serial stream data from our products during experimentation, and parse the data into a .csv file for immediate analysis. I also included a basic dashboard in it to show non-fatal faults.
 
 **Importance:** Sensor and processor state data is sent out constantly from the product, but was not stored or collected. This made diagnosing issues on the unit difficult as history logs alone would only capture snapshots of the product state when specific conditions were met. Oftentimes the unit would fail with hours of missing data between snapshots. 
 
@@ -38,5 +38,7 @@ Data Science Portfolio
 - The program has allowed for the capture of what the product "sees" and has allowed the team to isolate and fix discrepancies between the products perception and reality
 
 **Skills Used:** Python Programming with Kivy for UI, Data Collection, Data Cleaning, Automation, Git
+
+![](https://github.com/JebStewart/Jeb_Stewart_Portfolio/blob/master/images/SerialLoggerScreenshot.png)
 
 Note: For project 2 and 3, the code is owned by Collins Aerospace and includes proprietary information which is why it is not public on my GitHub.
