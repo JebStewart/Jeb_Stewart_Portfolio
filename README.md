@@ -17,12 +17,12 @@ Data Science Portfolio
 # Project 2: Predictive Maintenance Modeling
 **Objective:** Using existing sensors on board product, approximate when failure will occur and request customer perform maintenance.  
 
-**Importance:** Due to the high variation of environment products would operate in, MTBF varied wildly as customers did not know when to perform maintenance. The units regularly failed to meet warranty hour minimums as a result.
+**Importance:** Due to the high variation of environment products would operate in, time between failures varied wildly as customers did not know when to perform maintenance. The units regularly failed to meet warranty hour minimums as a result.
 
 **Outcome:** 
 - Able to predict failure within 10% of total life under lab conditions. 
 - Acted as proof of concept for the application of the technology in our domain.
-- Proved existing sensors would suffice for a retrofit software only solution (as hardware changes are significantly more expensive)
+- Proved existing sensors would suffice for a retrofit software only solution (as hardware changes are significantly more expensive in aerospace)
 
 **Skills Used:** Experiment Design, Data Collection, Mining, Cleaning, and Visualization, Time-Series Analysis and Regression
 
