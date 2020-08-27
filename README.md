@@ -10,6 +10,8 @@ Data Science Portfolio
 - Able to classify unseen data with an F1 Score of 0.974
 - Explored the morphological changes of cancerous cell nucleii and their role in metastasis
 
+![](https://github.com/JebStewart/Jeb_Stewart_Portfolio/blob/master/images/BCCresults.png)
+
 **Skills Used:** Data Manipulation, Data Visualization, Classification with XGBoost, LightGB, and SVM 
 
 # Project 2: Predictive Maintenance Modeling
