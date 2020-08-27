@@ -12,7 +12,7 @@ jebstewart22@gmail.com
 - Able to classify unseen data with an F1 Score of 0.974
 - Explored the morphological changes of cancerous cell nucleii and their role in metastasis
 
-![](https://github.com/JebStewart/Jeb_Stewart_Portfolio/blob/master/images/BCCresults.png)
+![](/images/BCCresults.png)
 
 **Skills Used:** Data Manipulation, Data Visualization, Classification with XGBoost, LightGB, and SVM 
 
@@ -41,6 +41,6 @@ jebstewart22@gmail.com
 
 **Skills Used:** Python Programming with Kivy for UI, Data Collection, Data Cleaning, Automation, Git
 
-![](https://github.com/JebStewart/Jeb_Stewart_Portfolio/blob/master/images/SerialLoggerScreenshot.png)
+![](/images/SerialLoggerScreenshot.png)
 
 Note: For project 2 and 3, the code is owned by Collins Aerospace and includes proprietary information which is why it is not public on my GitHub.
