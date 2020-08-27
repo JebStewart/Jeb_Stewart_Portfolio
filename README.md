@@ -1,5 +1,7 @@
-# Jeb Stewart Portfolio
-Data Science Portfolio
+# Data Science Portfolio
+Jeb Stewart\
+(913) 742-1648\
+jebstewart22@gmail.com
 
 # [Project 1: Classification of Breast Cancer Cell Nucleii](https://github.com/JebStewart/BreastCancerTumorClassification)
 **Objective:** Classify breast cancer cell nucleii samples as either benign or malignant
