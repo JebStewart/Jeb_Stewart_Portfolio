@@ -16,7 +16,14 @@ jebstewart22@gmail.com
 
 **Skills Used:** Data Manipulation, Data Visualization, Classification with XGBoost, LightGB, and SVM 
 
-# Project 2: Predictive Maintenance Modeling
+# [Project 2: Robinhood Auto-Trader (WIP)](https://github.com/JebStewart/AlgoTrading)
+**Objective:** Build a tool to predict short-term large moving stocks, and automate the buying and selling through Robinhood. 
+
+**Importance** I used this as a higher stakes way to practice feature engineering, machine learning, and writing robust code. 
+
+**Outcome (ongoing):** Model was trained on 100 most popular stocks on Robinhood from Jan 2019 to Jan 2020. In a simulated environment (using real values from the market) the auto-trader paper traded with $1000 dollars and managed to grow 300% in 9 months. The auto-trader was then given access to my actual account with $118 and has grown to ~8.5% in roughly 2 weeks.
+
+# Project 3: Predictive Maintenance Modeling
 **Objective:** Using existing sensors on board product, approximate when failure will occur and request customer perform maintenance.  
 
 **Importance:** Due to the high variation of environment products would operate in, time between failures varied wildly as customers did not know when to perform maintenance. The units regularly failed to meet warranty hour minimums as a result.
@@ -28,7 +35,7 @@ jebstewart22@gmail.com
 
 **Skills Used:** Experiment Design, Data Collection, Mining, Cleaning, and Visualization, Time-Series Analysis and Regression
 
-# Project 3: Data Collection and Parsing App
+# Project 4: Data Collection and Parsing App
 **Objective:** Create a tool for technicians to collect serial stream data from our products during experimentation, and parse the data into a .csv file for immediate analysis. I also included a basic dashboard in it to show non-fatal faults.
 
 **Importance:** Sensor and processor state data is sent out constantly from the product, but was not stored or collected. This made diagnosing issues on the unit difficult as history logs alone would only capture snapshots of the product state when specific conditions were met. Oftentimes the unit would fail with hours of missing data between snapshots. 
