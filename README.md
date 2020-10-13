@@ -21,7 +21,11 @@ jebstewart22@gmail.com
 
 **Importance** I used this as a higher stakes way to practice feature engineering, machine learning, and writing robust code. 
 
-**Outcome (ongoing):** Model was trained on 100 most popular stocks on Robinhood from Jan 2019 to Jan 2020. In a simulated environment (using real values from the market) the auto-trader paper traded with $1000 dollars and managed to grow 300% in 9 months. The auto-trader was then given access to my actual account with $118 and has grown to ~8.5% in roughly 2 weeks.
+**Outcome (ongoing):** Model was trained on 100 most popular stocks on Robinhood from Jan 2019 to Jan 2020. In a simulated environment (using real values from the market) the auto-trader paper traded with $1000 dollars and managed to grow 300% in 9 months following the training time period. The auto-trader was then given access to my actual account with $118 and has grown to ~8.5% in roughly 2 weeks. I will update this every week.
+
+![](/images/TestPredictorPlot.png)
+
+**Skills Used:** Python, Statistics, Data Mining, Feature Engineering, Automation, API's, Web Scraping 
 
 # Project 3: Predictive Maintenance Modeling
 **Objective:** Using existing sensors on board product, approximate when failure will occur and request customer perform maintenance.  
@@ -46,8 +50,8 @@ jebstewart22@gmail.com
 - The program has reduced the amount of modifications that must be made to units for testing which has allowed more tests to be run on an individual unit
 - The program has allowed for the capture of what the product "sees" and has allowed the team to isolate and fix discrepancies between the products perception and reality
 
-**Skills Used:** Python Programming with Kivy for UI, Data Collection, Data Cleaning, Automation, Git
-
 ![](/images/SerialLoggerScreenshot.png)
 
-Note: For project 2 and 3, the code is owned by Collins Aerospace and includes proprietary information which is why it is not public on my GitHub.
+**Skills Used:** Python Programming with Kivy for UI, Data Collection, Data Cleaning, Automation, Git
+
+Note: For project 3 and 4, the code is owned by Raytheon Technologies and includes proprietary information which is why it is not public on my GitHub.
