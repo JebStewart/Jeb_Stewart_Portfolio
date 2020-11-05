@@ -21,7 +21,7 @@ jebstewart22@gmail.com
 
 **Importance** I used this as a higher stakes way to practice feature engineering, machine learning, and writing robust code. 
 
-**Outcome (ongoing):** Model was trained on 100 most popular stocks on Robinhood from Jan 2019 to Jan 2020. In a simulated environment (using real values from the market) the auto-trader paper traded with $1000 dollars and managed to grow 300% in 9 months following the training time period. The auto-trader was then given access to my actual account with $118 and has grown to ~8.5% in roughly 2 weeks. I will update this every week.
+**Outcome (ongoing):** Model was trained on 100 most popular stocks on Robinhood from Jan 2019 to Jan 2020. In a simulated environment (using real values from the market) the auto-trader paper traded with $1000 dollars and managed to grow 300% in 9 months following the training time period. The auto-trader was then given access to my actual account with $118 and has grown to ~76% in roughly 4 weeks. I will update this every week.
 
 ![](/images/TestPredictorPlot.png)
 
